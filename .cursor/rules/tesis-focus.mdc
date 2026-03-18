@@ -1,0 +1,17 @@
+---
+description: Mantener foco academico y operativo del proyecto final
+alwaysApply: true
+---
+
+# Foco del proyecto final
+
+- El objetivo principal es terminar el proyecto final basado en `Proyecto Final_ByteCore.pdf`.
+- `PreProyecto_ByteCore.pdf` ya esta aprobado y no debe modificarse; se usa solo como antecedente, referencia conceptual y fuente de consistencia.
+- Toda nueva redaccion, continuidad, expansion y documentacion de trabajo debe orientarse a `Proyecto Final_ByteCore.pdf`.
+- `ideas/` se usa como referencia de proyectos ya aprobados.
+- Mantener consistencia terminologica con: logistica, ultima milla, trazabilidad, deposito, flota, tracking, prueba de entrega, devoluciones y rutas.
+- Priorizar entregables en Markdown que luego puedan copiarse o adaptarse al documento final.
+- Escribir en espanol con tono academico-profesional, claro y defendible.
+- Senalar de forma explicita las secciones incompletas, debiles o solo enunciadas.
+- Preferir avances concretos: texto finalizable, tablas, cuestionarios, entrevistas, analisis de factibilidad, modelos de datos, checklist y planes de implementacion.
+- Usar `ideas/` para estructura y nivel de detalle, pero sin copiar contenido tematico ajeno al proyecto ByteCore.
