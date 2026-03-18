@@ -16,7 +16,7 @@ Este archivo debe convertirse en el mapa de ejecucion del proyecto final. La ide
 - politica de calidad
 - descripcion del cliente
 
-Estado actual: mayormente cubierto
+Estado actual: cubierto en alto grado; presentacion del cliente aprobada
 
 ### 2. Diagnostico y oportunidad
 

@@ -7,16 +7,13 @@ Quedo fijado como criterio permanente que toda continuidad, expansion y cierre a
 
 ## Hecho en esta sesion
 
-- se creo `flujo_proyecto_final/21_GUIA_PASO_A_PASO_PROYECTO_FINAL.md` como mapa integral del 100 por ciento del proyecto final
-- se redacto `flujo_proyecto_final/30_QUIENES_SOMOS_BYTECORE.md` con version institucional ampliada y en primera persona
-- se redacto `flujo_proyecto_final/31_PRESENTACION_CLIENTE_BYTECORE.md` para continuar el bloque inicial del proyecto final
-- se dejo asentado en la guia que la trazabilidad y planificacion de rutas puede apoyarse en cartografia basada en `OpenStreetMap`, complementada con un motor de ruteo compatible
-- se verifico una inconsistencia de alcance entre preproyecto y proyecto final: el preproyecto habla de alcance regional en Argentina con delimitacion normativa en Provincia de Buenos Aires, mientras que el final amplia a Republica Argentina
-- se confirmo de forma persistente que `PreProyecto_ByteCore.pdf` no debe modificarse
+- se completo y aprobo la `Presentacion del cliente` en `flujo_proyecto_final/31_PRESENTACION_CLIENTE_BYTECORE.md`, alineandola con el organigrama y el nicho definido en el preproyecto
+- se ajusto la redaccion para diferenciar primera mencion de PyMEs y uso posterior de empresas/organizaciones
+- se registro en la guia y la estructura objetivo que la presentacion del cliente queda como bloque cerrado
 
 ## Diagnostico corto
 
-El proyecto final ya tiene encaminada su apertura institucional y una guia global de construccion, pero todavia necesita consolidar su coherencia interna en alcance, diagnostico, investigacion preliminar y requerimientos. La principal alerta actual es evitar contradicciones entre el preproyecto aprobado y las formulaciones mas amplias del proyecto final.
+La apertura institucional del proyecto final ya cuenta con una presentacion de cliente solida y coherente con el preproyecto. El foco inmediato pasa ahora por corregir el alcance, desarrollar el diagnostico del sector y avanzar sobre la investigacion preliminar y la determinacion de requerimientos, cuidando que no aparezcan contradicciones con el marco regional de ultima milla definido al inicio.
 
 ## Prioridad sugerida
 

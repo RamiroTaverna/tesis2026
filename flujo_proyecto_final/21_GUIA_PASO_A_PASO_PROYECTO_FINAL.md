@@ -61,6 +61,8 @@ Esta parte debe presentar a ByteCore como empresa desarrolladora, con identidad 
 
 ## Paso 2. Presentacion del cliente
 
+Estado actual: aprobado
+
 ### Que debe incluir
 
 - descripcion del cliente objetivo

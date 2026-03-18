@@ -10,6 +10,7 @@
 
 ## Cierre del contenido academico
 
+- [x] Aprobar y cerrar la presentacion del cliente
 - [ ] Consolidar indice o estructura final del documento
 - [ ] Reescribir y cerrar la aclaracion de la solicitud
 - [ ] Redactar informe de viabilidad preliminar

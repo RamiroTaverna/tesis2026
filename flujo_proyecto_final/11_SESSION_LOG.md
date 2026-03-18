@@ -59,3 +59,31 @@ Empezar la continuidad real del proyecto final con una guia de construccion y la
 ### Primer paso exacto para la proxima sesion
 
 Crear `sesiones/ALCANCE_BYTECORE.md` con una version coherente del alcance y la delimitacion del sistema, alineada con el preproyecto aprobado, y despues redactar `Diagnostico general sobre el sector logistico y contexto del proyecto`.
+
+## 2026-03-18 - Sesion 003
+
+### Objetivo
+
+Afianzar la presentacion del cliente en el proyecto final y dejarla cerrada de forma coherente con el preproyecto y el organigrama de referencia.
+
+### Avances
+
+- se retoquedo la `Presentacion del cliente` en `flujo_proyecto_final/31_PRESENTACION_CLIENTE_BYTECORE.md` para alinear su redaccion con el preproyecto y con el organigrama proporcionado
+- se dejo explicito que, aunque existan variaciones segun tamano y grado de formalizacion, las empresas de logistica de ultima milla suelen compartir una estructura funcional semejante
+- se ajusto el uso de PyMEs solo en la primera mencion del cliente objetivo y se empleo empresas/organizaciones en el resto del texto
+- se marco en la checklist, la estructura objetivo y la guia que la presentacion del cliente queda aprobada como bloque cerrado
+
+### Pendientes
+
+- redactar un alcance corregido y consistente con el preproyecto aprobado (`ALCANCE_BYTECORE.md`)
+- completar el diagnostico general sobre el sector logistico y el contexto del proyecto
+- continuar con la formulacion de la oportunidad de negocio y la solicitud del proyecto
+
+### Bloqueos
+
+- no hay bloqueos tecnicos
+- sigue pendiente corregir formalmente la contradiccion de alcance entre el preproyecto (regional de ultima milla con referencia a Provincia de Buenos Aires) y el texto actual del proyecto final
+
+### Primer paso exacto para la proxima sesion
+
+Crear `flujo_proyecto_final/32_ALCANCE_BYTECORE.md` con un alcance y delimitacion del sistema alineados al preproyecto, y luego redactar el `Diagnostico general sobre el sector logistico y contexto del proyecto` tomando como base la informacion ya explorada.
