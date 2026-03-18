@@ -1,7 +1,5 @@
 # Quienes Somos - ByteCore
 
-## Version redactada para el proyecto final
-
 ### Quienes somos
 
 Somos ByteCore, una empresa con ocho anos de trayectoria en el desarrollo de sistemas de gestion, orientada a la construccion de soluciones tecnologicas modulares, escalables y configurables segun las necesidades de cada cliente. A lo largo de nuestro recorrido, hemos participado en proyectos de software destinados a optimizar procesos internos, modernizar la administracion operativa y facilitar la adopcion de herramientas digitales en distintos entornos empresariales.
@@ -34,11 +32,3 @@ La vision de ByteCore es consolidarse como una empresa de referencia en el desar
 ByteCore asume como politica de calidad el compromiso de desarrollar soluciones tecnologicas que satisfagan de manera efectiva las necesidades de sus clientes, priorizando la confiabilidad, la claridad funcional y la capacidad de crecimiento del sistema. Para ello, la empresa procura mantener criterios de analisis, desarrollo e implementacion orientados a la mejora continua, al cumplimiento de buenas practicas y a la entrega de productos robustos, seguros y adaptables a distintos escenarios operativos.
 
 Asimismo, entiende que la calidad de una solucion no depende unicamente del software entregado, sino tambien de su correcta adopcion por parte de los usuarios. En consecuencia, complementa el desarrollo con acompanamiento, soporte y una mirada centrada en la usabilidad, de modo que la tecnologia implementada pueda integrarse de manera real y efectiva a los procesos de trabajo del cliente.
-
-## Version breve alternativa
-
-ByteCore es una empresa con ocho anos de experiencia en el desarrollo de sistemas de gestion, especializada en soluciones modulares y escalables orientadas a optimizar procesos empresariales. En este proyecto, la organizacion aplica su trayectoria al diseno de una plataforma integral de gestion logistica y trazabilidad de paqueteria, con el objetivo de mejorar la eficiencia operativa, la coordinacion entre areas y la disponibilidad de informacion en tiempo real dentro del sector de ultima milla.
-
-## Nota de uso
-
-La version extensa funciona mejor si el proyecto final requiere una presentacion institucional con tono academico-profesional. La version breve puede usarse si necesitas una introduccion mas directa y luego desarrollar enseguida mision, vision y valores.

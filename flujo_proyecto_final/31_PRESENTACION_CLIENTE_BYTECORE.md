@@ -1,7 +1,5 @@
 # Presentacion del Cliente - ByteCore
 
-## Version redactada para el proyecto final
-
 ### Presentacion del cliente
 
 El cliente objetivo para este proyecto comprende PyMEs de servicios de logistica y distribucion de paqueteria de ultima milla que gestionan un flujo sostenido de entregas en entornos regionales o urbanos. Estas organizaciones centralizan su operacion en un deposito o centro operativo principal y administran la distribucion diaria mediante una flota mixta, compuesta por vehiculos propios y tercerizados. En su funcionamiento cotidiano deben sincronizar multiples etapas criticas, que abarcan desde la recepcion y clasificacion de la paqueteria hasta la preparacion de hojas de ruta, la salida a reparto y la gestion de incidencias o devoluciones.
@@ -67,11 +65,3 @@ Tareas clave: asignacion de viajes, coordinacion de choferes, seguimiento del re
 - sobrecarga administrativa por consultas de tracking
 - errores en la coordinacion entre deposito y distribucion
 - dificultades para gestionar incidencias, devoluciones y prueba de entrega
-
-### Imagen sugerida
-
-[Imagen 2: organigrama simple del cliente objetivo con las areas Administracion y Atencion al Cliente, Deposito y Operaciones, y Trafico y Distribucion]
-
-## Nota de uso
-
-Este texto puede insertarse despues de la presentacion institucional y antes del diagnostico del sector. Si luego decides diferenciar entre "cliente objetivo" y "usuario final", conviene dejar esta seccion centrada en la organizacion logistica y desarrollar al destinatario del paquete en una subseccion posterior.
