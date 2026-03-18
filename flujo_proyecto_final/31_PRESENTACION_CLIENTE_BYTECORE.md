@@ -18,29 +18,29 @@ La complejidad del cliente objetivo no radica exclusivamente en la cantidad de e
 
 ### Estructura general de las organizaciones objetivo
 
-La estructura organizacional de estas empresas de ultima milla se fundamenta en la interconexion de areas operativas y administrativas que, aun dentro de estructuras empresariales acotadas, deben coordinarse de manera constante para sostener la continuidad del servicio. Esta arquitectura busca asegurar que el flujo fisico de la paqueteria sea acompanado por un flujo de informacion preciso, actualizado y compartido entre los distintos sectores involucrados en la operacion.
+La estructura organizacional de estas empresas de ultima milla se fundamenta en la articulacion entre niveles de direccion, gestion operativa y soporte administrativo-comercial. Esta configuracion permite que el flujo fisico de la paqueteria sea acompanado por un flujo de informacion preciso, actualizado y compartido entre los distintos sectores involucrados en la operacion, favoreciendo una administracion mas ordenada de los recursos y una mayor capacidad de respuesta frente a incidencias diarias.
 
-En terminos generales, el esquema organizativo se apoya en tres pilares funcionales:
+En terminos generales, el organigrama de referencia se compone de un nivel directivo superior y dos grandes gerencias funcionales:
 
-- Administracion y Atencion al Cliente: concentra la recepcion de pedidos, el seguimiento de consultas, la comunicacion con remitentes y destinatarios y el registro administrativo de la operacion.
-- Deposito y Operaciones: gestiona la recepcion fisica de la paqueteria, su clasificacion, control, almacenamiento transitorio y preparacion para el despacho.
-- Trafico y Distribucion: coordina la salida a reparto, la asignacion de recorridos, la entrega de los envios y la rendicion de novedades o comprobantes al cierre de la jornada.
+- Director General: responsable de la conduccion estrategica de la organizacion, la supervision general del negocio y la coordinacion entre las distintas areas.
+- Gerencia de Operaciones: concentra la planificacion y ejecucion de la operatoria logistica, incluyendo el trabajo en deposito, la distribucion y el control de la flota.
+- Gerencia Administrativa y Comercial: centraliza la gestion administrativa, comercial y de soporte, asegurando la continuidad documental, la relacion con el cliente y la disponibilidad de recursos para la operacion.
 
 ### Organizacion y areas funcionales de la operacion logistica
 
-La estructura interna del cliente objetivo se articula a traves de areas funcionales con responsabilidades especificas pero estrechamente vinculadas entre si. La eficiencia de la organizacion depende de que estos sectores compartan informacion en forma oportuna y trabajen bajo un criterio comun de seguimiento, control y respuesta operativa.
+La estructura interna del cliente objetivo se distribuye en sectores con responsabilidades especificas, alineados al organigrama observado. La eficiencia de la organizacion depende de que estas areas compartan informacion en forma oportuna y trabajen bajo un criterio comun de seguimiento, control y respuesta operativa.
 
-#### Administracion y Atencion al Cliente
+#### Gerencia de Operaciones
 
-Funcion principal: centralizar la informacion administrativa y comercial de la operacion, actuando como nexo entre la empresa, los remitentes y los destinatarios.
+Funcion principal: dirigir y supervisar la operacion logistica diaria, coordinando el trabajo del deposito, la distribucion y el soporte tecnico de la flota.
 
-Tareas clave: recepcion de pedidos, registro de envios, atencion de consultas y reclamos, actualizacion de estados informativos, coordinacion con deposito y trafico, y seguimiento general del servicio brindado al cliente.
+Tareas clave: planificacion de la operatoria diaria, coordinacion de recursos de reparto, control del flujo de paqueteria, seguimiento del desempeno operativo y supervision de la integracion entre deposito, trafico y mantenimiento de flota.
 
-#### Deposito y Operaciones
+#### Deposito
 
-Funcion principal: gestionar el ingreso, clasificacion y preparacion fisica de la paqueteria antes de su distribucion.
+Funcion principal: gestionar la recepcion fisica, clasificacion y preparacion de la paqueteria antes del despacho.
 
-Tareas clave: recepcion de bultos, control de mercaderia, clasificacion por destino o ruta, armado de hojas de ruta, preparacion de despachos y organizacion operativa del flujo interno del deposito.
+Tareas clave: recepcion de bultos, control de mercaderia, clasificacion por zona o destino, almacenamiento transitorio, armado de pedidos y preparacion de los despachos diarios.
 
 #### Trafico y Distribucion
 
@@ -48,13 +48,55 @@ Funcion principal: ejecutar la logistica de ultima milla mediante la coordinacio
 
 Tareas clave: asignacion de viajes, coordinacion de choferes, seguimiento del recorrido diario, confirmacion de entregas, gestion de incidencias, devoluciones y rendicion de documentacion o comprobantes.
 
+#### Mantenimiento de Flota
+
+Funcion principal: asegurar la disponibilidad operativa de los vehiculos afectados al reparto y reducir interrupciones por fallas tecnicas.
+
+Tareas clave: control del estado general de las unidades, coordinacion de mantenimientos preventivos y correctivos, seguimiento de documentacion vehicular y apoyo a la continuidad de la operacion de distribucion.
+
+#### Gerencia Administrativa y Comercial
+
+Funcion principal: centralizar la gestion administrativa, comercial y de soporte, actuando como nexo entre la operacion interna y la relacion con clientes, proveedores y personal.
+
+Tareas clave: supervision de atencion al cliente, facturacion, cobranzas, ventas, administracion del personal y gestion de compras necesarias para el sostenimiento de la actividad.
+
+#### Atencion al Cliente
+
+Funcion principal: canalizar la comunicacion con clientes y destinatarios, brindando informacion sobre el estado de los envios y gestionando consultas o reclamos.
+
+Tareas clave: recepcion de consultas, seguimiento de pedidos, actualizacion de estados informativos y articulacion con trafico y deposito para responder incidencias.
+
+#### Facturacion y Cobranzas
+
+Funcion principal: administrar la registracion economica de los servicios prestados y asegurar el seguimiento de ingresos pendientes.
+
+Tareas clave: emision de comprobantes internos, control de cuentas a cobrar, registro de movimientos asociados al servicio y apoyo documental a la gestion administrativa.
+
+#### Ventas y Comercial
+
+Funcion principal: sostener la relacion comercial con los clientes y promover la incorporacion de nuevos servicios o cuentas.
+
+Tareas clave: contacto comercial, seguimiento de oportunidades, coordinacion de condiciones de servicio y articulacion con administracion para el registro de nuevos clientes.
+
+#### Personal
+
+Funcion principal: administrar los recursos humanos necesarios para la continuidad de la operacion.
+
+Tareas clave: apoyo en seleccion y organizacion del personal, control documental basico, coordinacion interna y acompanamiento administrativo a los trabajadores.
+
+#### Compras
+
+Funcion principal: garantizar la disponibilidad de insumos y recursos necesarios para el funcionamiento de la empresa.
+
+Tareas clave: gestion de adquisiciones, control de insumos operativos y coordinacion de requerimientos de materiales o servicios para las distintas areas.
+
 ### Caracteristicas operativas del cliente objetivo
 
 - opera en distribucion regional o urbana de ultima milla
 - centraliza la actividad en un deposito o centro operativo principal
 - trabaja con flota propia, tercerizada o mixta
 - gestiona entregas, devoluciones y rendiciones diariamente
-- requiere coordinacion entre administracion, deposito, trafico y atencion al cliente
+- requiere coordinacion entre direccion, operaciones, administracion y atencion al cliente
 - necesita visibilidad operativa, trazabilidad y control de estados
 
 ### Problemas tipicos del cliente objetivo
