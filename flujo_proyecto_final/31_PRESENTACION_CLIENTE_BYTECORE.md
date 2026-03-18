@@ -4,38 +4,60 @@
 
 ### Presentacion del cliente
 
-Nuestro cliente objetivo esta compuesto por PyMEs de logistica y distribucion de paqueteria de ultima milla, con alcance regional o urbano dentro de la Republica Argentina. Se trata de organizaciones que concentran gran parte de su operacion en uno o mas depositos, desde donde reciben, clasifican, despachan y distribuyen paquetes hacia distintos puntos de entrega. En general, estas empresas trabajan con una flota mixta, integrada por vehiculos propios y tercerizados, y deben coordinar diariamente un alto volumen de movimientos, entregas y devoluciones.
+El cliente objetivo para este proyecto comprende PyMEs de servicios de logistica y distribucion de paqueteria de ultima milla que gestionan un flujo sostenido de entregas en entornos regionales o urbanos. Estas organizaciones centralizan su operacion en un deposito o centro operativo principal y administran la distribucion diaria mediante una flota mixta, compuesta por vehiculos propios y tercerizados. En su funcionamiento cotidiano deben sincronizar multiples etapas criticas, que abarcan desde la recepcion y clasificacion de la paqueteria hasta la preparacion de hojas de ruta, la salida a reparto y la gestion de incidencias o devoluciones.
 
-Estas organizaciones se desenvuelven en un contexto operativo exigente, donde la velocidad de respuesta, la trazabilidad de los envios y la correcta asignacion de recursos resultan factores determinantes para la calidad del servicio. Sin embargo, muchas de ellas aun dependen de planillas, registros manuales, llamadas telefonicas y herramientas ofimaticas basicas para administrar procesos centrales de su actividad. Esta situacion dificulta la consolidacion de informacion, limita la visibilidad sobre la operacion en curso y reduce la capacidad de reaccion frente a incidencias propias de la distribucion de ultima milla.
+Estas empresas enfrentan el desafio de profesionalizar su gestion operativa en un contexto donde la velocidad de respuesta, la trazabilidad de los envios y la coordinacion entre sectores resultan factores determinantes para la calidad del servicio. Sin embargo, en numerosos casos todavia dependen de procesos administrativos manuales, planillas de calculo, llamadas telefonicas y herramientas ofimaticas basicas para resolver actividades centrales de su operatoria. Esta limitacion dificulta su capacidad de crecimiento, impide un control eficiente sobre la mercaderia en transito y restringe la calidad del servicio de informacion que pueden ofrecer a remitentes y destinatarios.
 
-Desde una perspectiva funcional, el cliente objetivo presenta una estructura interna relativamente comun en el sector, con sectores diferenciados pero fuertemente interdependientes. El area administrativa y de atencion al cliente centraliza la recepcion de pedidos, la coordinacion comercial, el seguimiento de consultas y la comunicacion con remitentes y destinatarios. El sector de deposito y operaciones se ocupa de la recepcion fisica de la mercaderia, su clasificacion, resguardo temporal y preparacion para el despacho. Finalmente, el area de trafico y distribucion ejecuta la asignacion de viajes, el recorrido diario de los choferes, la entrega efectiva de los paquetes y la posterior rendicion de comprobantes e incidencias.
+La solucion propuesta busca resolver las ineficiencias derivadas de esta desarticulacion operativa e informativa entre administracion, deposito y distribucion, proporcionando una plataforma tecnologica que garantice mayor visibilidad sobre el estado de los envios, trazabilidad en tiempo real y un control mas preciso del tramo final de la cadena logistica. En este sentido, el sistema ByteCore se orienta a organizaciones que necesitan ordenar su crecimiento, reducir errores de coordinacion y fortalecer su capacidad de decision sobre una base de informacion confiable y centralizada.
 
-La complejidad del cliente no reside unicamente en la cantidad de envios gestionados, sino en la necesidad de articular de forma sincronizada tareas administrativas, logisticas y operativas que hoy suelen estar fragmentadas. La falta de integracion entre sectores genera demoras, duplicacion de tareas, errores en el seguimiento de estados y una excesiva dependencia del conocimiento informal de los operadores. Como consecuencia, la informacion pierde consistencia, la planificacion se vuelve reactiva y la calidad del servicio se resiente frente a retrasos, consultas o reclamos.
+### Diagnostico general sobre el sector de ultima milla y contexto del proyecto
 
-En este marco, el cliente objetivo demanda una solucion tecnologica capaz de profesionalizar su gestion sin imponer una complejidad desmedida en la operatoria diaria. El sistema propuesto debe adaptarse a organizaciones que necesitan mejorar su control interno, optimizar la planificacion de rutas, disponer de trazabilidad en tiempo real y fortalecer la comunicacion entre deposito, trafico, administracion y atencion al cliente. De este modo, la propuesta de ByteCore se orienta a un perfil de empresa que necesita crecer sobre bases mas ordenadas, integradas y sostenibles.
+En el marco de una investigacion exploratoria realizada por nuestro equipo de analistas, se examinaron PyMEs de distribucion regional y urbana, depositos operativos y circuitos de reparto vinculados a la logistica de ultima milla con el objetivo de comprender sus dinamicas de funcionamiento, los recursos tecnologicos disponibles y las principales dificultades que enfrentan en la actualidad. El relevamiento incluyo entrevistas con personal administrativo, responsables de trafico y conductores de reparto, la observacion directa de los procesos de clasificacion y despacho, y la revision de practicas habituales vinculadas al seguimiento de entregas y la rendicion de comprobantes.
+
+A partir de esta indagacion, se identifico un conjunto de problematicas recurrentes que afectan la eficiencia y sostenibilidad operativa de estas organizaciones, independientemente de su tamano o radio de cobertura. Se constato que la falta de herramientas digitales integradas genera puntos ciegos criticos, especialmente en la coordinacion entre el deposito y la ejecucion en calle. La carencia de una trazabilidad georreferenciada en tiempo real no solo dificulta la toma de decisiones, sino que tambien incrementa los costos por recorridos ineficientes, demoras evitables, reentregas y una gestion reactiva de incidencias, lo que termina degradando la experiencia del cliente final y limitando la competitividad del servicio.
+
+La complejidad del cliente objetivo no radica exclusivamente en la cantidad de envios gestionados, sino en la necesidad de articular de manera sincronizada tareas administrativas, logisticas y operativas que frecuentemente dependen de la experiencia informal de los trabajadores. Como consecuencia, la informacion se fragmenta, el control sobre la mercaderia en transito se debilita y la calidad del servicio final se vuelve inconsistente frente a las exigencias actuales del mercado.
+
+### Estructura general de las organizaciones objetivo
+
+La estructura organizacional de estas empresas de ultima milla se fundamenta en la interconexion de areas operativas y administrativas que, aun dentro de estructuras empresariales acotadas, deben coordinarse de manera constante para sostener la continuidad del servicio. Esta arquitectura busca asegurar que el flujo fisico de la paqueteria sea acompanado por un flujo de informacion preciso, actualizado y compartido entre los distintos sectores involucrados en la operacion.
+
+En terminos generales, el esquema organizativo se apoya en tres pilares funcionales:
+
+- Administracion y Atencion al Cliente: concentra la recepcion de pedidos, el seguimiento de consultas, la comunicacion con remitentes y destinatarios y el registro administrativo de la operacion.
+- Deposito y Operaciones: gestiona la recepcion fisica de la paqueteria, su clasificacion, control, almacenamiento transitorio y preparacion para el despacho.
+- Trafico y Distribucion: coordina la salida a reparto, la asignacion de recorridos, la entrega de los envios y la rendicion de novedades o comprobantes al cierre de la jornada.
+
+### Organizacion y areas funcionales de la operacion logistica
+
+La estructura interna del cliente objetivo se articula a traves de areas funcionales con responsabilidades especificas pero estrechamente vinculadas entre si. La eficiencia de la organizacion depende de que estos sectores compartan informacion en forma oportuna y trabajen bajo un criterio comun de seguimiento, control y respuesta operativa.
+
+#### Administracion y Atencion al Cliente
+
+Funcion principal: centralizar la informacion administrativa y comercial de la operacion, actuando como nexo entre la empresa, los remitentes y los destinatarios.
+
+Tareas clave: recepcion de pedidos, registro de envios, atencion de consultas y reclamos, actualizacion de estados informativos, coordinacion con deposito y trafico, y seguimiento general del servicio brindado al cliente.
+
+#### Deposito y Operaciones
+
+Funcion principal: gestionar el ingreso, clasificacion y preparacion fisica de la paqueteria antes de su distribucion.
+
+Tareas clave: recepcion de bultos, control de mercaderia, clasificacion por destino o ruta, armado de hojas de ruta, preparacion de despachos y organizacion operativa del flujo interno del deposito.
+
+#### Trafico y Distribucion
+
+Funcion principal: ejecutar la logistica de ultima milla mediante la coordinacion de recorridos y la entrega de los envios.
+
+Tareas clave: asignacion de viajes, coordinacion de choferes, seguimiento del recorrido diario, confirmacion de entregas, gestion de incidencias, devoluciones y rendicion de documentacion o comprobantes.
 
 ### Caracteristicas operativas del cliente objetivo
 
 - opera en distribucion regional o urbana de ultima milla
-- centraliza la actividad en uno o mas depositos
+- centraliza la actividad en un deposito o centro operativo principal
 - trabaja con flota propia, tercerizada o mixta
 - gestiona entregas, devoluciones y rendiciones diariamente
 - requiere coordinacion entre administracion, deposito, trafico y atencion al cliente
 - necesita visibilidad operativa, trazabilidad y control de estados
-
-### Sectores operativos principales
-
-#### Administracion y atencion al cliente
-
-Este sector se encarga de la recepcion de solicitudes, la gestion comercial, el contacto con clientes y el seguimiento de consultas o reclamos. Tambien cumple un rol de articulacion con el resto de las areas, ya que concentra y redistribuye informacion clave sobre envios, estados y novedades operativas.
-
-#### Deposito y operaciones
-
-Es el area responsable de la recepcion fisica de la mercaderia, la clasificacion de paquetes, el control de ingreso y egreso, el armado de pedidos y la preparacion de la hoja de ruta o del despacho diario. Su eficiencia condiciona directamente la velocidad y precision de la distribucion.
-
-#### Trafico y distribucion
-
-Este sector administra la asignacion de recorridos, coordina a los choferes y lleva adelante la entrega de los envios en calle. Ademas, registra incidencias, confirma entregas, gestiona devoluciones y realiza la rendicion de documentacion o comprobantes al cierre de la jornada.
 
 ### Problemas tipicos del cliente objetivo
 
