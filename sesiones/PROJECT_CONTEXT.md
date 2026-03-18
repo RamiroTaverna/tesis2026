@@ -13,13 +13,14 @@
 - `PreProyecto_ByteCore.pdf`: documento aprobado, solo lectura, usado como antecedente y base conceptual
 - `ideas/Proyecto Final Noah.pdf`: referencia de estructura y nivel de desarrollo esperado
 - `ideas/PreProyecto Noah.pdf`: referencia secundaria
+- `ideas/Pre y Proyectos/`: conjunto adicional de preproyectos y proyectos finales aprobados para comparar estructura, profundidad, continuidad y nivel de cierre
 
 ## Regla de continuidad documental
 
 - `PreProyecto_ByteCore.pdf` no debe modificarse
 - todo nuevo desarrollo debe concentrarse en la continuidad de `Proyecto Final_ByteCore.pdf`
 - el preproyecto se usa para conservar coherencia academica, alcance, problema, enfoque y lenguaje del proyecto
-- `ideas/` sirve solo como referencia de forma, estructura y nivel de detalle de una entrega final aprobada
+- `ideas/` y `ideas/Pre y Proyectos/` sirven solo como referencia de forma, estructura y nivel de detalle de entregas aprobadas
 
 ## Sintesis del problema
 

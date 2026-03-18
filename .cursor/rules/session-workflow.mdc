@@ -6,10 +6,10 @@ alwaysApply: true
 # Workflow de sesion
 
 - Si el usuario escribe `startsession`, asumir que quiere retomar el proyecto final de tesis.
-- Al iniciar con `startsession`, leer `sesiones/PROJECT_CONTEXT.md`, `sesiones/MASTER_CHECKLIST.md`, `sesiones/CHECKPOINT_ACTUAL.md` y el tramo mas reciente de `sesiones/SESSION_LOG.md`.
+- Al iniciar con `startsession`, leer `flujo_proyecto_final/00_PROJECT_CONTEXT.md`, `flujo_proyecto_final/01_MASTER_CHECKLIST.md`, `flujo_proyecto_final/10_CHECKPOINT_ACTUAL.md` y el tramo mas reciente de `flujo_proyecto_final/11_SESSION_LOG.md`.
 - Luego responder con un resumen breve del estado actual, el objetivo sugerido para la sesion y los siguientes 3 pasos concretos.
 - Reutilizar el contexto ya guardado y evitar pedir de nuevo informacion que ya exista en esos archivos.
-- Si durante la sesion cambia una decision importante, actualizar los documentos de `sesiones/`.
-- Si el usuario escribe `endsession`, actualizar `sesiones/CHECKPOINT_ACTUAL.md` y agregar una entrada a `sesiones/SESSION_LOG.md`.
+- Si durante la sesion cambia una decision importante, actualizar los documentos de `flujo_proyecto_final/`.
+- Si el usuario escribe `endsession`, actualizar `flujo_proyecto_final/10_CHECKPOINT_ACTUAL.md` y agregar una entrada a `flujo_proyecto_final/11_SESSION_LOG.md`.
 - Cada cierre de sesion debe dejar registrados: avances, pendientes, bloqueos y el primer paso exacto recomendado para la proxima sesion.
 - Si faltan datos para continuar, dejar preguntas abiertas claramente separadas dentro del checkpoint actual.
